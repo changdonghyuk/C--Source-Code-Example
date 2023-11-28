@@ -1,0 +1,17 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/Arrtast/.vs
+/ConsoleApplication1/.vs/ConsoleApplication1
+/ConsoleApplication1/ConsoleApplication1/Debug
+/.vs
+/Mission Rect/.vs
+/Mission Rect/Mission Rect/x64/Debug
+/Mission Rect/x64/Debug
+/TemplateTest/.vs/TemplateTest
+/Test1/.vs
+/Test1/Debug
+/Test1/Test1/Debug
+/Test1/Test1/x64/Debug
+/Test1/x64/Debug
